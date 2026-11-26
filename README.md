@@ -55,3 +55,16 @@ ai-resume-analyzer/
 ├── .gitignore
 └── .env.example
 ```
+## Application Screenshots
+
+### Home Page
+![Home Page](<Screenshot 2026-11-26 091636.png>)
+
+### Resume Analysis
+![Resume Analysis](<Screenshot 2026-11-26 091658.png>)
+
+### Analysis Results
+![Analysis Results](<Screenshot 2026-11-26 091805.png>)
+
+### Generated PDF Report
+![PDF Report](<Screenshot 2026-11-26 091816.png>)
